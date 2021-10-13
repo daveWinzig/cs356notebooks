@@ -1,3 +1,4 @@
 out.csv
 /tmp*
 .vscode
+mnist_full_weights.pth
