@@ -1,7 +1,7 @@
 out.csv
 .vscode
 mnist_full_weights.pth
-balls
-celeba
-dogs
-fashion
+balls/
+celeba/
+dogs/
+fashion/
